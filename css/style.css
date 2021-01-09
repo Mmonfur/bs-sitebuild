@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Muli&display=swap');
+
+h1, h2, h3, h4, h5, h6, nav {
+    font-family: 'Catamaran', Helvetica, Arial, sans-serif;
+}
+
+.btnText, .upperMenuLink {
+    Lato, Helvetica, Arial, sans-serif;
+}
+
+p {
+    font-family: Muli, Helvetica, Arial, sans-serif;
+}
+
+footer {
+    font-family: Muli, Helvetica, Arial, sans-serif;
+}
