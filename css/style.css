@@ -6,14 +6,18 @@ h1, h2, h3, h4, h5, h6, nav {
     font-family: 'Catamaran', Helvetica, Arial, sans-serif;
 }
 
+h1 {
+    font-size: 3.6rem;
+}
+
 .btnText, .upperMenuLink {
     font-family: Lato, Helvetica, Arial, sans-serif;
 }
 
 p {
-    font-family: Muli, Helvetica, Arial, sans-serif;
+    font-family: Mulish, Helvetica, Arial, sans-serif;
 }
 
 footer {
-    font-family: Muli, Helvetica, Arial, sans-serif;
+    font-family: Mulish, Helvetica, Arial, sans-serif;
 }
