@@ -25,6 +25,7 @@ h2 {
 
 p {
     font-family: Mulish, Helvetica, Arial, sans-serif;
+    font-size: 14px;
 }
 
 footer {
@@ -56,8 +57,13 @@ footer {
     .phoneScreen {
         width: 227px;
         position: absolute;
-        top:688px;
+        top:680px;
         left:394px;
     }
+}
+
+/* Font Awesome */
+.fas {
+    color: #AC3363
 }
 
