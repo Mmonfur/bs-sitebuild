@@ -33,9 +33,9 @@ footer {
 
 @media screen and (min-width: 1200px){
     .phoneScreen {
-        width: 225px;
+        width: 227px;
         position: absolute;
         top:688px;
-        left:395px;
+        left:394px;
     }
 }
