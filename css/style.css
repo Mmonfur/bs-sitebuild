@@ -31,7 +31,28 @@ footer {
     font-family: Mulish, Helvetica, Arial, sans-serif;
 }
 
-@media screen and (min-width: 1200px){
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px){
+    .phoneScreen {
+        width: 344px;
+        position: absolute;
+        top:1072px;
+        left:212px;
+    }
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px){
+    .phoneScreen {
+        width: 150px;
+        position: absolute;
+        top:656px;
+        left:255px;
+    }
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px){
     .phoneScreen {
         width: 227px;
         position: absolute;
