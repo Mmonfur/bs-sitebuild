@@ -62,13 +62,11 @@ footer {
     }
 }
 
-/* Font Awesome */
-.fas {
+/* Icons */
+.icon-present, .icon-lock-open, .icon-screen-smartphone, .icon-camera {
     color: #AC3363;
+    font-size: 4rem;
 }
 
-/* Background image */
-.bg {
-    background-color: rgb(0,0,0,0.2);    
-}
+
 
