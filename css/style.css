@@ -64,6 +64,11 @@ footer {
 
 /* Font Awesome */
 .fas {
-    color: #AC3363
+    color: #AC3363;
+}
+
+/* Background image */
+.bg {
+    background-color: rgb(0,0,0,0.2);    
 }
 
