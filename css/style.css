@@ -86,3 +86,34 @@ footer {
     left: 30%;
     transform: translate(-50%, -50%);
 }
+
+/* Buttons */
+
+ .round-button {
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    border-radius: 50%;
+    text-align: center;
+    text-decoration:none;
+    font-size: 25px;
+    opacity: 90%;
+    
+}
+
+.round-button:hover {
+    opacity: 100%;
+}
+
+.lightblue {
+    background: #1DA1F2;  
+}
+
+.blue {
+    background: #3B5998;  
+}
+
+.red {
+    background: #DD4B39;
+}
+        
