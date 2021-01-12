@@ -120,6 +120,18 @@ footer {
 /* Footer */
 
 .footer-color {
-    background:#222222
+    background:#222222;
 }
-        
+
+.footer__text-color {
+    color: #656565;
+}
+
+.links {
+    color: #656565;
+}
+
+.links:hover {
+    color: #fdcc52;
+    text-decoration: none;
+}
